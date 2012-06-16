@@ -22,6 +22,12 @@ namespace VNCMenuWalker
         }
 
 
+        /// <summary>
+        /// hjghygy
+        /// </summary>
+        /// <param name="width"></param>
+        /// <param name="height"></param>
+        /// <returns></returns>
         private static Bitmap ScreenShot(int width, int height)
         {
             Graphics gfxScreenshot;
